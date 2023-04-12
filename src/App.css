@@ -45,7 +45,7 @@ h3 {
   padding-left: 20px;
 }
 
-.visits {
+.visits-box {
   background-color: var(--silver);
   grid-column: 2/5;
   text-align: left;
